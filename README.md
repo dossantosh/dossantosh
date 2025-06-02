@@ -3,5 +3,3 @@
 - I’m currently learning Spring Boots
 
 - https://www.linkedin.com/in/dossantosh/
-
-- leetcode.com/u/dossantosh/
