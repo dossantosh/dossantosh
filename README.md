@@ -33,4 +33,4 @@
 
 ---
 
-💡 *"Building the backend, one endpoint at a time."*
+💡 *"Make it work. Make it right. Make it fast."*
